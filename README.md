@@ -21,9 +21,15 @@ Este es el primer proyecto creado en el Bootcamp de GeekHub Academy. Una forma d
 Regla  para verificar el ancho, la altura o la alineación de los elementos de una página web en píxeles.
 https://chrome.google.com/webstore/detail/measure-it/jocbgkoackihphodedlefohapackjmna
 
+<img src="./Imagenes/Mesure.png" alt="">
+
+
 ###### Colorzilla:
 Se puede obtener una lectura de color desde cualquier punto de su navegador, ajustar rápidamente este color y pegarlo en otro programa. 
 https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+
+
+<img src="./Imagenes/colorpicker.png" alt="">
 
 ###### WhatFont:
 Identifica el tipo de Font que hay en una pagina web.
@@ -42,7 +48,10 @@ https://csspeeper.com/
 ---
 ### Tecnologias:
 - HTML
-- Css
+- Css: Grid, flexbox y position
+
+
+<img src="./Imagenes/Screenshot 2022-09-24 at 10.11.01.png" alt="">
 
 ---
 ### Colores 
@@ -66,8 +75,9 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
 
 ---
+### Foto en la que me base.
 
-
+<img src="./Imagenes/consola.png" alt="">
 
 
 
