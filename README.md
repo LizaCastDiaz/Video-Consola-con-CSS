@@ -1,7 +1,7 @@
 
 <h1 align="center"> GAME BOY </h1>
 <h4 align="center">Una replica ilustrativa de mi consola favorita. </h4>
- <a align="center" href="https://lizacastdiaz.github.io/Video-Consola-con-CSS/">Ver Game-Boy clone</a>
+ <a text-aline="center" href="https://lizacastdiaz.github.io/Video-Consola-con-CSS/">Ver Game-Boy clone</a>
 
 
 
@@ -10,7 +10,7 @@ Este es el primer proyecto creado en el Bootcamp de GeekHub Academy. Una forma d
 
 
 
-<h2 align="center">Herramientas y recursos</h2>
+<h2 text-align: center>Herramientas y recursos</h2>
 
 ### Herramientas
 
