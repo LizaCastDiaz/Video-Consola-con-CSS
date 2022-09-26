@@ -68,11 +68,15 @@ https://csspeeper.com/
 #### Creando bordes:
 https://lineadecodigo.com/css/redondear-bordes-con-css/ 
 
-#### Entendiendo Grid
+#### Entendiendo Grid:
 https://css-tricks.com/snippets/css/complete-guide-grid/ 
 
-#### Entendiendo Flex
+#### Entendiendo Flex:
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+
+#### Entendiendo Flex:
+Degradado con transiciones de color alrededor de un punto central
+https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient
 
 ---
 ### Foto en la que me base.
