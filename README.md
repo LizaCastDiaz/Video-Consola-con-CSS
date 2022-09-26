@@ -1,6 +1,8 @@
 
 <h1 align="center"> GAME BOY </h1>
 <h4 align="center">Una replica ilustrativa de mi consola favorita. </h4>
+ <a align="center" href="https://lizacastdiaz.github.io/Video-Consola-con-CSS/">Ver Game-Boy clone</a>
+
 
 
 Este es el primer proyecto creado en el Bootcamp de GeekHub Academy. Una forma de evaluar los conocimietnos adquiridos durante la primera semana de bootcamp. 
@@ -74,7 +76,7 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 #### Entendiendo Flex:
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
 
-#### Entendiendo Flex:
+#### Entendiendo como hacer transiciones:
 Degradado con transiciones de color alrededor de un punto central <br>
 https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient
 
