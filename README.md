@@ -75,7 +75,7 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
 
 #### Entendiendo Flex:
-Degradado con transiciones de color alrededor de un punto central
+Degradado con transiciones de color alrededor de un punto central <br>
 https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient
 
 ---
